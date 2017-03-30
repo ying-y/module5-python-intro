@@ -9,13 +9,15 @@ Python is one of the most popular programming languages in the world, and very a
 **Contents**
 
 - [Resources](#resources)
-- [Programming with R](#programming-with-r)
-- [Running R Scripts](#running-r-scripts)
+- [Programming with Python](#programming-with-python)
+  - [Versions](#versions)
+- [Running Python Scripts](#running-python-scripts)
   - [Command-Line](#command-line)
-  - [RStudio](#rstudio)
+  - [Jupyter Notebooks](#jupyter-notebooks)
+- [Python Basics](#python-basics)
 - [Comments](#comments)
 - [Variables](#variables)
-  - [Basic Data Types](#basic-data-types)
+  - [Data Types](#data-types)
 - [Getting Help](#getting-help)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
