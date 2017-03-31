@@ -246,6 +246,8 @@ There are a number of "basic types" for data in Python. The two most common are:
 
   There are many built-in functions for working with strings, and in fact strings support a [variety of functions](https://docs.python.org/3/library/stdtypes.html#string-methods) you can call _on_ them. See [module 6](../../../module6-functions) for details.
 
+Note that there are many other data types as well; more will be introduced throughout the remaining modules.
+
 It is possible to convert from one type to another by using a **type converter function**, which is usually named after the type you wish to convert _to_:
 
 ```python
