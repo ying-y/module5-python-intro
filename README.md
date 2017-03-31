@@ -25,8 +25,9 @@ Python is one of the most popular programming languages in the world, and very a
 ## Resources
 Python is an incredibly popular programming language and is especially accessible to new programmers. As such, there are **a lot** of resources available for learning how to program in Python. While these modules will cover most of the details you need, I've included a number of other effective resources below in case you need further help. _Note that you'll need to reference Python 3 materials_.
 
-- [Think Python](http://greenteapress.com/wp/think-python-2e/): a free, friendly introductory textbook for learning Python. You should definitely read [**Chapter 1**](http://greenteapress.com/thinkpython2/html/thinkpython2002.html), which is a great overview of programming in general
-- [Python for Everybody](http://www.pythonlearn.com/book.php): a remixed version of the above book, with a focus on Information Sciences. See in particular the [interactive version](https://books.trinket.io/pfe/index.html). Chapter 1 of this book is also a very good read.
+- [Think Python (Downey)](http://greenteapress.com/wp/think-python-2e/): a free, friendly introductory textbook for learning Python. You should definitely read [**Chapter 1**](http://greenteapress.com/thinkpython2/html/thinkpython2002.html), which is a great overview of programming in general.
+- [Python for Everybody (Severance)](http://www.pythonlearn.com/book.php): a remixed version of the above book, with a focus on Information Sciences. See in particular the [interactive version](https://books.trinket.io/pfe/index.html). Chapter 1 of this book is also a very good read.
+- [Automate the Boring Stuff with Python (Sweigart)](https://automatetheboringstuff.com/): another good free textbook
 - [Python for Non-Programmers Index](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers): an extensive list of resources and materials for learning to program with Python. The textbooks and interactive courses are all good options.
 - [Official Python Documentation](https://docs.python.org/3/)
 - [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
