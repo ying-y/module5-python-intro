@@ -248,6 +248,13 @@ There are a number of "basic types" for data in Python. The two most common are:
 
 Note that there are many other data types as well; more will be introduced throughout the remaining modules.
 
+_Helpful tip:_ because variables can any type of data, it is often useful to name variables based on their data type. This helps keep the purpose of code clear in your mind, and makes it easier to read and understand what is happening:
+
+```python
+password_num = 12345  # variable name indicates a number, so can do math on it
+password_str = "12345"  # variable name indicates a string, so can print it
+```
+
 It is possible to convert from one type to another by using a **type converter function**, which is usually named after the type you wish to convert _to_:
 
 ```python
